@@ -1,4 +1,4 @@
-# Oiiie! Eu sou o Guilherme Francheto Corse
+# Oie! Eu sou o Guilherme Francheto Corse
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=GuizeraaXyz&show_icons=true&theme=dark"
